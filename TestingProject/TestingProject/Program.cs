@@ -10,8 +10,8 @@ namespace TestingProject
     {
         static void Main(string[] args)
         {
-            int a = 1 + 2;
-            Console.WriteLine("Hello GITSSSSSSSSSSSSSSSS! {0}", a);
+            int b = 1 + 2;
+            Console.WriteLine("Hello GITSSSSSSSSSSSSSSSS! {0}", b);
             Console.Read();
         }
     }
