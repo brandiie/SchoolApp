@@ -11,7 +11,7 @@ namespace TestingProject
         static void Main(string[] args)
         {
             int b = 1 + 2;
-            Console.WriteLine("Hello GITSSSSSSSSSSSSSSSS! {0}", b);
+            Console.WriteLine("Jeinalyn! {0}", b);
             Console.Read();
         }
     }
