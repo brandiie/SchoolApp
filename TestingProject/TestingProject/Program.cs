@@ -10,7 +10,8 @@ namespace TestingProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello GIT!");
+            int a = 1 + 1;
+            Console.WriteLine("Hello GIT! {0}", a);
             Console.Read();
         }
     }
